@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marcador</string>
+    <string name="colaborador">Colaborador</string>
+    <string name="per_odo_de_entrada">Período de entrada</string>
+    <string name="periodo_de_entrada">periodo_de_entrada</string>
+    <string name="regime">Regime</string>
+    <string name="submeter">Submeter</string>
+</resources>

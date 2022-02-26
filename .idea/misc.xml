@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/drawable/ic_bg_dashboard_custom.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/drawable/ic_dismiss.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/drawable/ic_mark_presence.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/drawable/ic_messages.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/activity_dismiss.xml" value="0.22" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/activity_message.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/activity_presence.xml" value="0.25" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/activity_replace.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/dialog_reg_presence.xml" value="0.25" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/presence_list_item.xml" value="0.5" />
+        <entry key="..\:/Users/Tembe/Documents/AndroidProjects/Marcador/app/src/main/res/layout/replace_list_item.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
